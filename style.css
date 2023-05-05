@@ -21,11 +21,11 @@ li {
 }
 
 .button {
-    background-color: rgb(234, 185, 202);
+    background-color: #FFD8DB;
     padding: 10px;
     border-radius: 15px;
     font-size: 14px;
-    color: rgb(65, 65, 156);
+    color: #A389CC;
 }
 
 .nav {
@@ -53,7 +53,7 @@ li {
 }
 
 .button-account {
-    background-color: rgba(95, 72, 200, 0.861);
+    background-color: #5243C0;
     padding: 10px;
     border-radius: 15px;
     font-size: 14px;
