@@ -93,3 +93,8 @@ li {
     width: 40%;
     margin-top: 70px;
 }
+
+.profile:hover {
+    background-color: white;
+
+}
