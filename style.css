@@ -1,0 +1,95 @@
+.logo {
+    height: 40px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 40px;
+
+}
+
+.button-main {
+    display: inline-block;
+    margin-left: 400px;
+    text-decoration: none;
+}
+
+.button {
+    background-color: rgb(234, 185, 202);
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 14px;
+    color: rgb(65, 65, 156);
+}
+
+.nav {
+    text-decoration: none;
+    color: grey;
+
+}
+
+.nav :hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.main-div {
+    margin-left: 100px;
+}
+
+.main-div1 {
+    width: 40%;
+    display: inline-block;
+}
+
+.para {
+    color: dimgray;
+}
+
+.button-account {
+    background-color: rgba(95, 72, 200, 0.861);
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 14px;
+    color: white;
+
+}
+
+.myaccount-link {
+    text-decoration: none;
+
+
+}
+
+.arrow-up {
+    margin-left: 30px;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 0px;
+}
+
+.arrow-down {
+    height: fit-content;
+    width: fit-content;
+    margin-top: 0px;
+}
+
+.profile {
+    margin: 7px;
+    background-color: rgb(237, 241, 244);
+    border-radius: 12px;
+    width: 325px;
+
+}
+
+.main-div2 {
+    display: inline-block;
+    width: 40%;
+    margin-top: 70px;
+}
